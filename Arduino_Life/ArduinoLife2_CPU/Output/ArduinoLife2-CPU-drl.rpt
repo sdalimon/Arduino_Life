@@ -1,0 +1,28 @@
+Drill report for Y:/KiCAD_Projects/ArduinoLife2 - CPU/ArduinoLife2-CPU.kicad_pcb
+Created on 2020-05-26 8:51:31 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'ArduinoLife2-CPU.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (14 holes)
+    T2  0.50mm  0.020"  (2 holes)
+    T3  0.60mm  0.024"  (4 holes)  (with 4 slots)
+    T4  0.75mm  0.030"  (24 holes)
+    T5  0.80mm  0.031"  (78 holes)
+    T6  1.00mm  0.039"  (36 holes)
+    T7  1.10mm  0.043"  (4 holes)
+
+    Total plated holes count 162
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
